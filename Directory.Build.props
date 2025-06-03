@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+    <PropertyGroup>
+        <TargetFramework>net472</TargetFramework>
+        <RuntimeIdentifiers>win-x64</RuntimeIdentifiers>
+        <LangVersion>latest</LangVersion>
+        <Deterministic>true</Deterministic>
+        <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+    </PropertyGroup>
+</Project>

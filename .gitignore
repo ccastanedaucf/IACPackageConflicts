@@ -1,0 +1,7 @@
+__cacheOutput/
+bin/
+obj/
+Logs/
+MSBuildResultsCacheOutput/
+QLogs/
+*.log

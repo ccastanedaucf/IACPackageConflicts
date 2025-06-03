@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+    <CentralPackageTransitivePinningEnabled>true</CentralPackageTransitivePinningEnabled>
+  </PropertyGroup>
+
+<ItemGroup>
+    <PackageVersion Include="Microsoft.Identity.Client" Version="4.66.2" />
+    <PackageVersion Include="Microsoft.Identity.Client.Extensions.Msal" Version="4.66.2" />
+</ItemGroup>
+
+</Project>
